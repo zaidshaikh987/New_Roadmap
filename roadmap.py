@@ -8,7 +8,7 @@ import base64
 import zlib
 
 # ✅ Load Gemini API Key securely
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY = "AIzaSyB8Ab3gXsAb9TXl38UeeJ9hMiH1c8dj--I"
 if not GEMINI_API_KEY:
     st.error("API Key is missing. Please set the 'GEMINI_API_KEY' environment variable.")
     st.stop()
