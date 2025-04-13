@@ -1,0 +1,43 @@
+{
+    "name": "Zeenat",
+    "age": 34,
+    "state": "Andhra Pradesh",
+    "language": "Telugu",
+    "education": "Dropped out after 10th grade due to financial constraints. Gained practical skills through community workshops, self-learning, and hands-on experience.",
+    "background": "Raised in a modest household in a small town in Andhra Pradesh. Her father worked as a daily wage laborer, and her mother managed household chores while occasionally taking up stitching work. Zeenat learned tailoring and handicrafts by observing her mother and later expanded her skillset through free courses and local initiatives.",
+    "skills": [
+      "Basic Computer Knowledge (MS Office, Internet Navigation)",
+      "Spoken English (Basic Conversational)",
+      "Handicrafts (Beadwork, Paper Crafts, Decorative Items)",
+      "Tailoring & Sewing (Basic stitching, Repairs, Simple Dresses)",
+      "Hospital Attendant Skills (Basic patient care, Hygiene practices)"
+    ],
+    "experience": "5 years of combined experience working in small clinics as a hospital helper and part-time tailoring for neighbors. Known for her patience, clean work, and eagerness to learn.",
+    "courses": [
+      {
+        "course_name": "Basic Computer Skills for Women",
+        "marks": "94%",
+        "date": "2024-06-20",
+        "mode": "Digital Literacy Mission – Govt. Center"
+      },
+      {
+        "course_name": "Handicrafts & Home Decor Workshop",
+        "marks": "91%",
+        "date": "2024-08-12",
+        "mode": "Local NGO Program"
+      },
+      {
+        "course_name": "Spoken English for Beginners",
+        "marks": "88%",
+        "date": "2025-01-18",
+        "mode": "Mobile App-based Learning"
+      }
+    ],
+    "highlights": [
+      "Multiskilled and self-driven woman with no formal higher education",
+      "Uses a second-hand sewing machine gifted by a women's support group",
+      "Actively helps other women in her area learn useful skills like tailoring and basic English",
+      "Dreams of starting a skill center where women can learn, earn, and grow with dignity"
+    ]
+  }
+  
